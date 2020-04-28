@@ -1,0 +1,30 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/__tests__": true,
+    "**/android": true,
+    "**/ios": true,
+    // "**/node_modules": true,
+    "**/.buckconfig": true,
+    "**/.eslintrc.js": true,
+    "**/.flowconfig": true,
+    "**/.gitattributes": true,
+    "**/.gitignore": true,
+    "**/.prettierrc.js": true,
+    "**/.watchmanconfig": true,
+    "**/app.json": true,
+    "**/babel.config.js": true,
+    "**/metro.config.js": true,
+    "**/yarn.lock": true,
+    // "**/react-native.config.js": true
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#5E091D",
+    "titleBar.activeBackground": "#840D29",
+    "titleBar.activeForeground": "#FFFBFC"
+  }
+}
